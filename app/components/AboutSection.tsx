@@ -8,22 +8,11 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2 grid grid-cols-4 gap-4">
-        <li>Node.js</li>
-        <li>Next.js</li>
-        <li>PostgreSQL</li>
-        <li>Unity</li>
-        <li>JavaScript</li>
-        <li>React</li>
-        <li>Godot</li>
-        <li>C#</li>
-        <li>Python</li>
-        <li>C++</li>
-        <li>OpenCV</li>
-        <li>Git</li>
-        <li>Google Cloud Platform</li>
-        <li>LLM</li>
-        <li>Deep Learning</li>
-        <li>VR/AR</li>
+        <li>video games</li>
+        <li>welding</li>
+        <li>problem solving</li>
+        <li>football</li>
+      
       </ul>
       
     ),
@@ -33,8 +22,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Master&apos;s Computer Science - University of Texas Rio Grande Valley</li>
-        <li>Bachelor&apos;s Computer Science - University of Texas Rio Grande Valley</li>
+        <li>graduated - robert vela highschool</li>
+        
       </ul>
     ),
   },
@@ -43,7 +32,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Add Later</li>
+        <li>welding</li>
+        <li> serve safe</li>
       </ul>
     ),
   },
